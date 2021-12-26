@@ -1,0 +1,5 @@
+idodo,nombre,appaterno,apmaterno,sexo,edad,telefono,correo,password,calle,numint,numext,idmun,colonia,img,idesp,hora_entrada,hora_salida
+4,Vanessa,Gómez,Mendoza,F,28,1234567890,a@gmail.com,sdfsdsdfsdf,C,7,0,1,S,sinfoto.jpg,1,00:00:00,00:00:00
+6,Emmanuel,Gómez,Mendoza,M,26,1234567890,a@gmail.com,sdfsdsdfsdf,C,7,0,1,S,sinfoto.jpg,1,00:00:00,00:00:00
+9,Erik,Morales,Gómez,M,19,1234567890,a@gmail.com,sdfsdsdfsdf,C,7,0,1,S,sinfoto.jpg,1,00:00:00,00:00:00
+19,Karina,Gómez,Mendoza,F,24,1234567890,a@gmail.com,sdfsdsdfsdf,C,7,0,1,S,sinfoto.jpg,1,00:00:00,00:00:00
